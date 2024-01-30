@@ -1,3 +1,10 @@
+@font-face{
+    font-family: nova;
+    src: url(/fuentes/Exo_2/static/Exo2-Bold.ttf);
+    font-weight: bold;
+    font-style: bold;
+}
+
 *{
     box-sizing: border-box;
     
@@ -91,10 +98,7 @@ body{
 .card{
     background-color: rgb(32, 32, 32);
 }
-@font-face{
-    font-family: nova;
-    src: url(/fuentes/CuteFont-Regular.ttf);
-}
-.senaflix{
+
+h2{
     font-family: nova;
 }
