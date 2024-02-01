@@ -14,8 +14,12 @@ body{
     margin: 0;
     padding: 0;
 }
-.limite{
+.limite {    
     max-height: 90vh;
+}
+.limInt{
+    justify-content: center;
+    align-items: center;
 }
 .peliculas{
     justify-content: space-around;
